@@ -1,0 +1,50 @@
+body {
+  background-color:#c2dfff;
+}
+#main {
+  background-color:white;
+  margin-top:300px;
+  margin-left:800px;
+  width:350px;
+  height:400px;
+  position:absolute;
+}
+#login {
+  color:blue;
+  font-size:30px;
+  font-family:Arial;
+  margin-left:130px;
+  margin-top:30px;
+  position:relative;
+}
+#username {
+  margin-left:20px;
+  margin-top:50px;
+  color:green;
+  font-size:20px;
+  font-family:Arial;
+}
+#username input {
+  margin-left:20px;
+}
+#password {
+  margin-left:20px;
+  margin-top:40px;
+  color:green;
+  font-size:20px;
+  font-family:Arial;
+}
+#password input {
+  margin-left:20px;
+}
+#submit {
+  margin-left:100px;
+  margin-top:50px;
+}
+#submit input {
+  color:white;
+  font-size:20px;
+  background-color:orange;
+  width:150px;
+  height:50px;
+}
